@@ -1,0 +1,42 @@
+body
+{
+    font-family: 'Pacifico', cursive;
+    background: rgb(241, 241, 215)
+}
+
+.header_div
+{
+    background: rgb(206, 248, 227);
+    color: rgb(76, 239, 185);
+}
+#result_label,#result_confidence
+{
+    font-size: 30px;
+}
+.header_div p{
+    font-size:  30px;
+    font-family: 'Pacifico', cursive;
+    color:rgb(237, 190, 173)
+    letter-spacing 2px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Pacifico', cursive;
+    margin-top :30px;
+    width: 130px ;
+    font-size: 30px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer {
+    font-size: 30px;
+    position: fixed;
+    color: rgb(191, 145, 233);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(250, 221, 187);
+    line-height: 3;
+    text-align:center;
+    text-shadow: 5px 5px 5px rgb(244, 140, 244);
+}
